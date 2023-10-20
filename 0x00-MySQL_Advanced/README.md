@@ -3,7 +3,7 @@
 
 Back-endSQLMySQL
 
--   By Guillaume Plessis, Senior Cloud & System Engineer at WeWork and Guillaume, CTO at Holberton school
+-   By Anthony yeboah  
 -   Weight: 1
 
 -   An auto review will be launched at the deadline
