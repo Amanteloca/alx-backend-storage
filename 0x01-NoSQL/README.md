@@ -3,7 +3,7 @@
 
 Back-endNoSQLMongoDB
 
--   By Emmanuel Turlay, Staff Software Engineer at Cruise and Guillaume, CTO at Holberton school
+-   By Anthony yeboah 
 -   Weight: 1
 
 Resources
