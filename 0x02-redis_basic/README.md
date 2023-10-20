@@ -1,7 +1,7 @@
 0x02. Redis basic
 Back-end
 Redis
- By Emmanuel Turlay, Staff Software Engineer at Cruise
+ By Anthony yeboah, Staff Software Engineer at Cruise
  Weight: 1
 
 Resources
